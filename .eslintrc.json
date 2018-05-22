@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "indent": ["error", 2, { "SwitchCase": 1 }],
+    "object-curly-newline": ["error", { "multiline": true }],
+    "arrow-parens": 0,
+    "function-paren-newline": 0
+  }
+}
